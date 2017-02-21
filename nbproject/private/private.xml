@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/David/Java/DWETClub/src/java/club/data/BookIO.java</file>
+            <file>file:/C:/Users/David/Java/DWETClub/src/java/club/admin/DWETDisplayBooksServlet.java</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETError.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/includes/DWETBanner.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETAdmin.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETDisplayBooks.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETRegister.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETAddBook.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/src/java/club/admin/DWETAddBookServlet.java</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/DWETDisplayMember.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/index.jsp</file>
+            <file>file:/C:/Users/David/Java/DWETClub/web/WEB-INF/books.txt</file>
+            <file>file:/C:/Users/David/Java/DWETClub/src/java/club/business/Book.java</file>
+        </group>
+    </open-files>
+</project-private>
